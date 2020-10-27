@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const finishedObj = {
   text: "a",
   id: 1
